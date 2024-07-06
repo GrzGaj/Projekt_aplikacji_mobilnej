@@ -1,0 +1,10 @@
+kot	cat
+pies	dog
+samochód	car
+dom	house
+drzewo	tree
+szkoła	school
+okno	window
+stół	table
+krzesło	chair
+książka	book

@@ -1,0 +1,10 @@
+jabłko	apple
+banan	banana
+pomarańcza	orange
+chleb	bread
+mleko	milk
+ser	cheese
+masło	butter
+jajko	egg
+mięso	meat
+kurczak	chicken
